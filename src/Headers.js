@@ -13,11 +13,13 @@ export default function Header(){
             <h2 className="college">Pragati Engineering College</h2>
             {/* <button className="email"><HiMail /> Email</button> */}
             <button>
-                <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" className="email"><HiMail />Email
+                <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank" rel="noopener noreferrer"
+                className="email"><HiMail />Email
                 </a>
             </button>
             <button className="button-1">
-                <a href="https://www.linkedin.com/feed/" className="linked"><AiFillLinkedin /> LinkedIn
+                <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer"
+                className="linked"><AiFillLinkedin /> LinkedIn
                 </a>
             </button>
         </div>
