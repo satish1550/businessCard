@@ -2,13 +2,15 @@
 import './App.css';
 import Footer from './Footer';
 import Header from './Headers';
-import Nav from './Nav';
+import About from './About';
+import Interest from './Interest';
 
 function App() {
   return (
     <div className="box">
       <Header />
-      <Nav />
+      <About />
+      <Interest />
       <Footer />
     </div>
 
