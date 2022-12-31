@@ -1,9 +1,9 @@
-BusineeCard
+# BusineeCard
 https://grand-dango-1d43b7.netlify.app/
 
-![image](https://user-images.githubusercontent.com/103049738/210129237-999d9e07-8e8c-40da-b84c-6054c4d711b6.png)
+![image](https://user-images.githubusercontent.com/103049738/210129323-551e710b-2cf1-4acd-a8e4-9dd494bdd783.png)
 
-# Getting Started with Create React App 
+Getting Started with Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
